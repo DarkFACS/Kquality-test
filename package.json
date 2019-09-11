@@ -1,5 +1,5 @@
 {
-  "name": "kquality",
+  "name": "kquality-test",
   "version": "1.0.0",
   "description": "This is a program for academical programs",
   "main": "index.js",
@@ -20,15 +20,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andresj90/KQuality.git"
+    "url": "git+https://github.com/DarkFACS/Kquality-test.git"
   },
   "keywords": [
-    "KQuality"
+    "KQuality-test"
   ],
   "author": "Group",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/andresj90/KQuality/issues"
+    "url": "https://github.com/DarkFACS/Kquality-test/issues"
   },
-  "homepage": "https://github.com/andresj90/KQuality#readme"
+  "homepage": "https://github.com/DarkFACS/Kquality-test#readme"
 }
